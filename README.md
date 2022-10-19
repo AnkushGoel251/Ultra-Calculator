@@ -1,5 +1,5 @@
 ### `Visit and use deployed site`
-https://mellifluous-lebkuchen-fad677.netlify.app/
+https://ultra-calculator.netlify.app/
 
 ### `npm start`
 
